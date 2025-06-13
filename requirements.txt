@@ -1,2 +1,4 @@
-selenium==4.21.0
-undetected-chromedriver==3.5.5
+selenium
+undetected-chromedriver
+schedule
+python-dotenv
