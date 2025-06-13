@@ -1,0 +1,11 @@
+services:
+  - type: worker
+    name: chatgpt-keepalive
+    runtime: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "TRUE"
