@@ -1,11 +1,6 @@
 services:
-  - type: web                      # আপনি worker না, web service চাই
-    name: chatgpt-keepalive
-    runtime: python
+  - type: web
+    name: chatgpt-cookie-keeper
+    env: docker
     region: oregon
     plan: free
-    buildCommand: chmod +x start.sh
-    startCommand: ./start.sh
-    envVars:
-      - key: PYTHONUNBUFFERED
-        value: "TRUE"
