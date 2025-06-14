@@ -1,0 +1,30 @@
+[
+  {
+    "domain": ".openai.com",
+    "expirationDate": 1750000000,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.session-token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "YOUR_REAL_SESSION_COOKIE_HERE",
+    "id": 1
+  },
+  {
+    "domain": ".openai.com",
+    "expirationDate": 1750000000,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "another_cookie",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "SOME_OTHER_VALUE",
+    "id": 2
+  }
+]
