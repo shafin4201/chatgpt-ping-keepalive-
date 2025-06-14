@@ -8,4 +8,4 @@ services:
     region: oregon
     envVars:
       - key: PYTHONUNBUFFERED
-        value: "TRUE"
+        value: "true"
