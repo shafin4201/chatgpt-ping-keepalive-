@@ -1,30 +1,11 @@
 [
   {
     "domain": ".openai.com",
-    "expirationDate": 1750000000,
-    "hostOnly": false,
-    "httpOnly": true,
     "name": "__Secure-next-auth.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..FVcO6sWYMFvCSTca.8x2UDQFYubdH5nLERw3dB3MFEIs-6aObhcH-g47EW3-xjreaHmy0h8Vl_XamzrvnCkOrSVo5u6XFeW4v8bsW4jGrdV82M7SrtUBq103UXqMFIkucbfjSQITQePQbLaxL1OpwFwbnP-Oi5Jd4rlagaWGJq67NE8pK7iQM73Q3qNAN8LcFYky8HLTQxAfxFL6aOKxXfl7MIrUM3JSZKC8nKGHCSi-vCNnf8Mw-PEgWHMKeURNjDrjnsYcS1al4sGhMeX41qllkeZZVisXqcHsq4F4FSHKlEXOTFP2K04xNQLDq0fjp6m1aJZZEt4q9j2C4Vl9OHiWvry9ADIpOrFrzKOZApelIthDRCL4TwjlcQ-81StlSF6McitMgQ1GlGMxwrdsBWt3NcC-0wRC7C_Op-3bk-kMqms9nUWjRrkrlM1k35u6XLJxy1XZ2vIhoPagC82PvGsxiPDpb8NFZK5Sbh_oSgnSABekVG8j6yzQoCls6nOL8GZWYF_faLQNuCIP07mv5mDDitLiJLT2C04sbfRY_qtd_IH-swUO6SzymaZad4l6UWani5V0SnzCbF-n54EqQWHG3uaHeevaTXYhmyto9eX0coOP2B4sTbRPDeI_6duoxbiFukLK4XUSbSKELqZTid2SwxFUSuJykF8xeFpug32czpDj7FRaaA0hkVjPDQvcCo_n-L-rWX22rGAz7Lkhcc-BmJZcc0a7xp4LMqZXpkvU7y_eStJ6OgL0XW3SI7IHEoM3NKn6je7Ll67_P_dH2vmg-lCvjROwo4XUH0fsw9vipjxyUIXxBsLDzK_AD3ynrMnzBXHK5Mam_10-C0a1iv4uA0wdyEiyWJweNuCsagXPD9WyXpIzn3QQ4AfgaUeBaGPD3mEfZc9ToxfdSFmT8E8p3TZU_tApx9WQJfSMN5dK_3erSZBnRElPmG_lqneeg8m8GGqfZg-US3JBJGaM0RFw6dSywsL1T-NCR6_ztNZmxFoNzSWQVs0ASkUYBuf_4LgMlb41jX7QrK2DiFiLYuUf0mSRXTyR6KhdKPgDrpQm5khZFhOVj-zc-5z3aZOuz0sesOV_rtzALfk1Sdrx4yz13eOj99IlCVutoqClt9YpP0nPigKBVRqRJERFbXrcAyjLZs4SLMIWwtLlUJYFSXGIWZXDzJ_djyqCxMESlv8YMu6YPd0KUH66WGsRWbNnXgtI66QfZMogjnIkrB2JBJzemUH7pD20IjSViqgXamIuH7-igY-lFA6ubCbVIP38ASE_n2oXxytb-NmLh7eq2ZgJqdkv7psPWEhw5UNnNGSBxGcqBgPlAUPyalV7cL4r3lfXI6XKwgTC9aXYg7xaQVuwH97-TWeQJDEWQgNzaTE-3eFwgnIGpE7a5mb21xUxTEvqaY3Z3MmzPLwKQFdF_ibtwRHMcE8ZR1YlTTuWnhqMbB3222eiH8Dq9fNTjIpiwiGDj8RafHtDcAQeCD1rh9jn9Aj9VzTjZyKbJTd8p3n4FLech3-2dflchLmZ2YC3Ym8sI1TuwwtfDKbdLLbeatdA1fF3Ctz7eIhcGfCIVsHVP2mJdoeRJirLh10n0Boom2ZH-zD_q60-Et7MXtPXcTRBgIy6ZqiMwyiAE7yzUXkSw9vFIRU-r932afaqwU3ZV5aUA18CKaNNpft4-VT1zx4eB9ttS7fHFFjVOWm7MOe0f1bJ_tcbKplpmL0qhkmG8XL15vUGLdhQyrHG4C17tDIqdGVeLJxoRuhMZEPWYfKBwFVhtxAl86RVfTvmFDCVpxxX7NSxVcwFFiUmH9g4kcDmXwxg0fCYUGAZLc4nm-9eiQWl7wmN19v3zcUfiz7B4j5b5Z2T59ygs5WbCnqEUbG9fxD7n4YXMb3mIYcynjiDCrlznanzR6y9KGbS8Y6xD5DHU28DAXzFnWz2H5QzoMaKha1Zk8cZ-ZTSvERMKB7CbrmgGL_1JV3aolc4O2HHvzOjXhtZZkYqbgQN3963G_NRKA6iTfxusPNLxcj8uQT_TzJWbLU8NyChXWXoomhuFd_YWSNLaF_u5QIhQ8dEOHvo8a_QUpX859LMHTzGrGYmIxvzH-q-aVX8R5a6bzxMPLgnsUyrhsgZQBcumVDERt0Tnr9ICXHigWUZ7AD7OV5GisNJki49UAeDDukpTIX97lQNd9FT_PI53mC8mEL-TyqhJrRX8Q04IKqcMMYkKLx8SFxKcd4xa3EIUPrBSsCJiqbUXYch5OSVTlh4GQzAmjL9rjb2cSxHYxmVdk_VZKPANI9701tiNGdFAY9GGT32KUJFipbK-T25vLBKIftrQe4lObqRnmj--tMLfqNMLi0LtQNvtzmMNckxCrZFJkFUULR2wk123FmhmQ2TvsjBsLAwQyU9Q1wMD4jDXYFw-5fhJqcZxnvfh4Rf-Eivzsd49whK64Yw7WXCkQeB1fP5E1Vjly1onOkjAKQc7vHxY6XXUnanrG0zweuTIrSd7uEKJ9YFzk2sYAcOioMOaBcv10u7pstqfKc-DZbgpOePwqWwbuG7DlhYKz60U3YpM1dPPKXW7FWkhv6O5t0oIgYlcMl1O81tpEq6e_Be0-Ssc0CGK13yzQd4oyfhPzNk7pKYPZonFEu02BvQcNDoxYrgdpXLJPYIXLPBf2tSxabMVWiS34iaS0ipH62rjdJ3Xr_eEcTgXXl1771feXgR7yNSK5u1oxlvlPDdIESSoYeQAKl7QGWUm0YGoMbZ3A42D9gUpUm25T-Q0I6uCyCVbZDkanyDQvI1sYXeFxUtYNQn8Z1CpKo7R4h5hPm-ashrEzzliLmcQlm0eBA4YxkrxnNXF7CFrKYb0vbVedagXOtbSN_EXvivwNz-8BrX4A813efZUBieGIEUUc4wqm7LaxpzX61JXP95LbE-h-YZZK_LBCRO3YRnYRxhebZq_sW3USBaokgHMVQn7JyhzwchS4i16sK5aafaMcAIkUmyuXSUqe9hdZzNMz3we_Imzw2NFcAJLBwi54djUTfgghLPIBd-k-pA.FCDHC1m8WgKyMphyTa1k4g",
     "path": "/",
-    "sameSite": "Lax",
     "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "YOUR_REAL_SESSION_COOKIE_HERE",
-    "id": 1
-  },
-  {
-    "domain": ".openai.com",
-    "expirationDate": 1750000000,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "another_cookie",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "SOME_OTHER_VALUE",
-    "id": 2
+    "httpOnly": true,
+    "sameSite": "Lax"
   }
 ]
