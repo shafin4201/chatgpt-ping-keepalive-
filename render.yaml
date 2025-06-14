@@ -1,6 +1,11 @@
 services:
-  - type: web
-    name: chatgpt-cookie-keeper
-    env: docker
-    region: oregon
+  - type: worker
+    name: chatgpt-ping
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
     plan: free
+    region: oregon
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "TRUE"
