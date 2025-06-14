@@ -1,9 +1,7 @@
 services:
   - type: worker
     name: chatgpt-ping
-    runtime: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: bash start.sh
+    env: docker
     plan: free
     region: oregon
     envVars:
