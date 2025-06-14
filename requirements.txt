@@ -1,4 +1,3 @@
 selenium
-undetected-chromedriver
+webdriver-manager
 schedule
-python-dotenv
